@@ -1,0 +1,15 @@
+#emf-logo a{
+	background-image: url(https://funera.se/wp-content/uploads/2016/02/funera-logo.svg?x11676);
+    background-size: 110px;
+    width: 113px;
+    margin: 5px;
+    height: 63px;
+}
+
+#emf-form {
+  padding: 0 15px 5px;
+}
+
+#emf-form-instruction {
+  border: none
+}
